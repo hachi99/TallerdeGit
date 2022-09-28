@@ -1,5 +1,6 @@
 hola archivo de prueba
 este es un archivo de prueba 
+se agrega la linea en la version 6
 
 
-v0.1.0
+v0.6.0
