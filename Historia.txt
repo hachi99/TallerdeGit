@@ -4,3 +4,4 @@ se agrega la linea en la version 6
 
 
 v0.6.0
+v0.8.0
